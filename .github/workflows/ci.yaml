@@ -1,6 +1,6 @@
 name: ci-golang-workflow
 on: 
-  pull_requests:
+  pull_request:
     branches:
       - develop
 jobs:
